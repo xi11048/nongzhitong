@@ -1,0 +1,64 @@
+{
+  "crop": "荞麦",
+  "disease": "荞麦轮纹病",
+  "aliases": [],
+  "pathogen": {
+    "category": "待专项核验",
+    "scientific_name": "待专项核验",
+    "verified": false,
+    "source": "待专项核验"
+  },
+  "symptoms": {
+    "whole_plant": "待专项核验",
+    "leaf": "待专项核验",
+    "stem": "待专项核验",
+    "spike_or_panicle": "待专项核验",
+    "grain_or_fruit": "待专项核验",
+    "early_stage": "待专项核验",
+    "late_stage": "待专项核验"
+  },
+  "diagnostic_features": [],
+  "differential_diagnosis": [],
+  "epidemiology": {
+    "transmission": "待专项核验",
+    "favorable_conditions": "待专项核验",
+    "high_risk_growth_stage": "待专项核验",
+    "overwintering_or_survival": "待专项核验"
+  },
+  "severity": {
+    "level_1": "待专项核验",
+    "level_2": "待专项核验",
+    "level_3": "待专项核验"
+  },
+  "control": {
+    "prevention": [],
+    "agronomic": [],
+    "biological": [],
+    "chemical": [],
+    "notes": "应依据当地植保部门指导及登记农药标签执行。"
+  },
+  "image_dataset": {
+    "minimum_recommended_images": 30,
+    "image_types": [
+      "整株",
+      "叶片",
+      "病斑近照",
+      "茎秆",
+      "叶鞘",
+      "穗部",
+      "不同严重程度",
+      "不同生育期",
+      "不同角度",
+      "不同光照",
+      "不同背景"
+    ],
+    "verified_count": 0,
+    "source_license": "待补充"
+  },
+  "verification": {
+    "verified_by": "",
+    "verified_date": "",
+    "source_documents": [],
+    "status": "reviewing"
+  }
+}

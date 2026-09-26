@@ -1,0 +1,117 @@
+{
+  "version": "1.0",
+  "total_crops": 5,
+  "total_diseases": 22,
+  "diseases": [
+    {
+      "crop": "谷子",
+      "disease": "谷瘟病",
+      "path": "谷子/谷瘟病/metadata.json"
+    },
+    {
+      "crop": "谷子",
+      "disease": "谷子白发病",
+      "path": "谷子/谷子白发病/metadata.json"
+    },
+    {
+      "crop": "谷子",
+      "disease": "谷子粒黑穗病",
+      "path": "谷子/谷子粒黑穗病/metadata.json"
+    },
+    {
+      "crop": "谷子",
+      "disease": "谷子锈病",
+      "path": "谷子/谷子锈病/metadata.json"
+    },
+    {
+      "crop": "谷子",
+      "disease": "谷子纹枯病",
+      "path": "谷子/谷子纹枯病/metadata.json"
+    },
+    {
+      "crop": "谷子",
+      "disease": "谷子细菌性褐条病",
+      "path": "谷子/谷子细菌性褐条病/metadata.json"
+    },
+    {
+      "crop": "高粱",
+      "disease": "高粱丝黑穗病",
+      "path": "高粱/高粱丝黑穗病/metadata.json"
+    },
+    {
+      "crop": "高粱",
+      "disease": "高粱散黑穗病",
+      "path": "高粱/高粱散黑穗病/metadata.json"
+    },
+    {
+      "crop": "高粱",
+      "disease": "高粱坚黑穗病",
+      "path": "高粱/高粱坚黑穗病/metadata.json"
+    },
+    {
+      "crop": "高粱",
+      "disease": "高粱炭疽病",
+      "path": "高粱/高粱炭疽病/metadata.json"
+    },
+    {
+      "crop": "高粱",
+      "disease": "高粱北方炭疽病",
+      "path": "高粱/高粱北方炭疽病/metadata.json"
+    },
+    {
+      "crop": "高粱",
+      "disease": "高粱靶斑病",
+      "path": "高粱/高粱靶斑病/metadata.json"
+    },
+    {
+      "crop": "高粱",
+      "disease": "高粱纹枯病",
+      "path": "高粱/高粱纹枯病/metadata.json"
+    },
+    {
+      "crop": "荞麦",
+      "disease": "荞麦褐斑病",
+      "path": "荞麦/荞麦褐斑病/metadata.json"
+    },
+    {
+      "crop": "荞麦",
+      "disease": "荞麦霜霉病",
+      "path": "荞麦/荞麦霜霉病/metadata.json"
+    },
+    {
+      "crop": "荞麦",
+      "disease": "荞麦轮纹病",
+      "path": "荞麦/荞麦轮纹病/metadata.json"
+    },
+    {
+      "crop": "糜子",
+      "disease": "糜子黑穗病",
+      "path": "糜子/糜子黑穗病/metadata.json"
+    },
+    {
+      "crop": "糜子",
+      "disease": "糜子白发病",
+      "path": "糜子/糜子白发病/metadata.json"
+    },
+    {
+      "crop": "糜子",
+      "disease": "糜子叶斑病",
+      "path": "糜子/糜子叶斑病/metadata.json"
+    },
+    {
+      "crop": "燕麦",
+      "disease": "燕麦冠锈病",
+      "path": "燕麦/燕麦冠锈病/metadata.json"
+    },
+    {
+      "crop": "燕麦",
+      "disease": "燕麦秆锈病",
+      "path": "燕麦/燕麦秆锈病/metadata.json"
+    },
+    {
+      "crop": "燕麦",
+      "disease": "燕麦叶斑病",
+      "path": "燕麦/燕麦叶斑病/metadata.json"
+    }
+  ]
+}
